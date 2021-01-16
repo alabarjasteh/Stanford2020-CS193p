@@ -1,0 +1,12 @@
+[submodule "CS193p-EmojiArt"]
+	path = CS193p-EmojiArt
+	url = git@github.com:alabarjasteh/CS193p-EmojiArt.git
+[submodule "CS193p-SetGame"]
+	path = CS193p-SetGame
+	url = git@github.com:alabarjasteh/CS193p-SetGame.git
+[submodule "CS193p-Enroute"]
+	path = CS193p-Enroute
+	url = git@github.com:alabarjasteh/CS193p-Enroute.git
+[submodule "CS193p-Memorize"]
+	path = CS193p-Memorize
+	url = git@github.com:alabarjasteh/CS193p-Memorize.git
