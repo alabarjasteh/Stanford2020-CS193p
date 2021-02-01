@@ -1,4 +1,4 @@
-# Stanford CS193p 2020 - Developing Apps for iOS
+# Stanford CS193p 2020 - Developing Apps for iOS (in SwiftUI)
 
 > Use different commits to see a certain lecture's code or my humble solution to an assingment.
 
